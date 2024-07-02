@@ -1,2 +1,2 @@
 # sonic-pi-buffers
-For Sharing Sonic Pi Code
+This Repository is for Sharing Sonic Pi Code buffer files.
